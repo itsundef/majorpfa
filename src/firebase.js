@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-	apiKey: "AIzaSyBBK6P2FIbo7viDWme0vMLTvTcFEiT8KUI",
+	apiKey: "AIzaSyBBK6P2FIbo7viDWasdassadTcFEiT8KUI",
 	authDomain: "pfa24-a947d.firebaseapp.com",
 	projectId: "pfa24-a947d",
 	storageBucket: "pfa24-a947d.appspot.com",
